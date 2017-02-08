@@ -3,6 +3,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.event.*;
+//By Rui Li
+//Driver class for Fractal Tree Generator
 public class Driver{
 	static JFrame f;
 	static DrawPanel p;

@@ -1,3 +1,4 @@
+//By Rui Li
 public class Node {
 	private int a;
 	private double l;
